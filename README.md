@@ -1,8 +1,11 @@
+![Java](https://img.shields.io/badge/Experience-5%2B%20years-brightgreen) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
 # Hello, World! 👋 I'm Michele (or Michael if you prefer)
 
 Welcome to my GitHub profile! 👨‍💻
 
-I've been immersed in the vast world of Java for ![Experience](https://img.shields.io/badge/Experience-5%2B%20years-brightgreen), and there's no sign of me surfacing any time soon! 😄
+I've been immersed in the vast world of Java for over 5 years, and there's no sign of me surfacing any time soon! 😄
 
 As a freelancer working for **NetherixStudios** and **Fiverr**, I've enjoyed the flexibility of crafting software solutions for a diverse range of clients and industries. I'm always ready for new challenges and love expanding my skillset with each project. 
 
