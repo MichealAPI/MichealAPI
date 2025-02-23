@@ -1,7 +1,7 @@
 𝚌𝚘𝚍𝚎://micheles_world.𝚖𝚍
 
 𝙷𝚎𝚕𝚕𝚘, 𝚆𝚘𝚛𝚕𝚍! 👾  
-**Java Wizard** 🧙♂️ | **Plugin Architect** 🏗️ | **Coffee Alchemist** ☕
+**Java Architect ☕** | **MikesLab Founder 🚀** | **Plugin Artisan 🎮**
 
 ![Java Experience](https://img.shields.io/badge/Java-6+_Years-007396?logo=openjdk)
 ![Python Experience](https://img.shields.io/badge/Python-2+_Years-007396?logo=python)
