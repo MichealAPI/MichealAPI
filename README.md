@@ -18,7 +18,6 @@ _Anonymous idea matchmaking (72hr hackathon miracle)_
 
 **🆔 [Identity](https://github.com/MichealAPI/Identity)**  
 _Player identity system with existential crisis support_  
-`// "Steve? Mario? Please declare your mid-life crisis"`
 
 **🏢 [TrueCompanies](https://github.com/MichealAPI/TrueCompanies)**  
 _Minecraft capitalism simulator™_  
@@ -26,7 +25,6 @@ _Minecraft capitalism simulator™_
 
 **🤌 WidenMC**  
 _40+ player Italian community server_  
-`// Where redstone meets espresso-powered builds`
 
 ---
 
